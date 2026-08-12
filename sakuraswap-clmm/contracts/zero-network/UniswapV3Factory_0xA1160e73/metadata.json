@@ -1,0 +1,11 @@
+{
+  "conflicting_implementations": null,
+  "creation_status": "success",
+  "implementations": [],
+  "proxy_type": null,
+  "explorer": "blockscout",
+  "chain_id": 543210,
+  "is_verified": false,
+  "deployed_bytecode_len": 16578,
+  "creation_bytecode_len": 266
+}

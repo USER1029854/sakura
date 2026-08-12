@@ -1,0 +1,56 @@
+{
+  "creation_status": "success",
+  "optimization_enabled": true,
+  "verified_twin_address_hash": null,
+  "is_verified": true,
+  "compiler_settings": {
+    "evmVersion": "istanbul",
+    "libraries": {},
+    "metadata": {
+      "bytecodeHash": "none"
+    },
+    "optimizer": {
+      "enabled": true,
+      "runs": 2000
+    },
+    "outputSelection": {
+      "*": {
+        "": [
+          "ast"
+        ],
+        "*": [
+          "abi",
+          "evm.bytecode",
+          "evm.deployedBytecode",
+          "evm.methodIdentifiers"
+        ]
+      }
+    }
+  },
+  "optimization_runs": 2000,
+  "sourcify_repo_url": null,
+  "compiler_version": "v0.7.6+commit.7338295f",
+  "is_verified_via_verifier_alliance": false,
+  "verified_at": "2024-12-13T12:16:40.540026Z",
+  "implementations": [],
+  "proxy_type": null,
+  "external_libraries": [],
+  "name": "NonfungiblePositionManager",
+  "is_blueprint": false,
+  "license_type": "none",
+  "is_fully_verified": false,
+  "is_verified_via_eth_bytecode_db": true,
+  "language": "solidity",
+  "evm_version": "istanbul",
+  "can_be_visualized_via_sol2uml": true,
+  "is_verified_via_sourcify": false,
+  "certified": false,
+  "conflicting_implementations": null,
+  "is_changed_bytecode": false,
+  "is_partially_verified": true,
+  "constructor_args": "000000000000000000000000640887a9ba3a9c53ed27d0f7e8246a4f933f34240000000000000000000000004200000000000000000000000000000000000006000000000000000000000000a1168fd2cb5acec1f0b100593a1858f47b399a7b",
+  "explorer": "blockscout",
+  "chain_id": 57073,
+  "deployed_bytecode_len": 48770,
+  "creation_bytecode_len": 50836
+}

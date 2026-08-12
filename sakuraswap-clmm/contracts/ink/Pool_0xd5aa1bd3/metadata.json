@@ -1,0 +1,56 @@
+{
+  "creation_status": "success",
+  "optimization_enabled": true,
+  "verified_twin_address_hash": null,
+  "is_verified": true,
+  "compiler_settings": {
+    "libraries": {},
+    "metadata": {
+      "bytecodeHash": "none"
+    },
+    "optimizer": {
+      "enabled": true,
+      "runs": 800
+    },
+    "outputSelection": {
+      "*": {
+        "": [
+          "ast"
+        ],
+        "*": [
+          "abi",
+          "evm.bytecode",
+          "evm.deployedBytecode",
+          "evm.methodIdentifiers",
+          "metadata"
+        ]
+      }
+    }
+  },
+  "optimization_runs": 800,
+  "sourcify_repo_url": null,
+  "compiler_version": "v0.7.6+commit.7338295f",
+  "is_verified_via_verifier_alliance": false,
+  "verified_at": "2024-12-20T23:55:21.669210Z",
+  "implementations": [],
+  "proxy_type": null,
+  "external_libraries": [],
+  "name": "UniswapV3Pool",
+  "is_blueprint": false,
+  "license_type": "none",
+  "is_fully_verified": false,
+  "is_verified_via_eth_bytecode_db": true,
+  "language": "solidity",
+  "evm_version": "default",
+  "can_be_visualized_via_sol2uml": true,
+  "is_verified_via_sourcify": false,
+  "certified": false,
+  "conflicting_implementations": null,
+  "is_changed_bytecode": false,
+  "is_partially_verified": true,
+  "constructor_args": null,
+  "explorer": "blockscout",
+  "chain_id": 57073,
+  "deployed_bytecode_len": 44286,
+  "creation_bytecode_len": 45458
+}

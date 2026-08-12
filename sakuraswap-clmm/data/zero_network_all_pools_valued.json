@@ -1,0 +1,1195 @@
+[
+  {
+    "pool": "0x5e6a3ecf57315e10befd635e4072226c0051caea",
+    "chain": "zero_network",
+    "total_usd": 3199.4457465803853,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 1079761800,
+        "qty": 1079.7618,
+        "usd": 1079.2737476664,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1129367019253072486,
+        "qty": 1.1293670192530725,
+        "usd": 2120.1719989139856,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 3000,
+    "blockNumber": 1268,
+    "txHash": "0x1effa4642dd643d422cb1744dd254080f77967f277a0385b3bf01cf50445e369"
+  },
+  {
+    "pool": "0xd49f6c680449c91eff8b2b32474a80d83afce9d1",
+    "chain": "zero_network",
+    "total_usd": 0.4743789200674776,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 5982,
+        "qty": 0.005982,
+        "usd": 0.005979296136000001,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 249505741689693,
+        "qty": 0.000249505741689693,
+        "usd": 0.4683996239314776,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 100,
+    "blockNumber": 482405,
+    "txHash": "0x93afcfbe1d6817a970bdfa0228c52a6861671b4b8cfa3d618ff853743cef6583"
+  },
+  {
+    "pool": "0xfb4053eb0c8be235cfad6014537c6c7b1371f9b1",
+    "chain": "zero_network",
+    "total_usd": 1.87731e-15,
+    "lines": [
+      {
+        "token_address": "0xF4F31dCe4d19DBdBA9826FB4DEa392DC84dF400F",
+        "symbol": "SPONKEGOLG",
+        "name": "SPONKEGOLG",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": 1.87731e-15,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "SPONKEGOLG"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xf4f31dce4d19dbdba9826fb4dea392dc84df400f",
+    "fee": 10000,
+    "blockNumber": 483799,
+    "txHash": "0x5ec2afbc1bae0b0e0a75055387c0d1a17e3d849570f7506ac0c62c573b0d4787"
+  },
+  {
+    "pool": "0xa8de06224da19a593df39c68346de7649a9e13f2",
+    "chain": "zero_network",
+    "total_usd": 7.50924e-15,
+    "lines": [
+      {
+        "token_address": "0xF4F31dCe4d19DBdBA9826FB4DEa392DC84dF400F",
+        "symbol": "SPONKEGOLG",
+        "name": "SPONKEGOLG",
+        "decimals": 18,
+        "raw_balance": 5,
+        "qty": 5e-18,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 4,
+        "qty": 4e-18,
+        "usd": 7.50924e-15,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "SPONKEGOLG"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xf4f31dce4d19dbdba9826fb4dea392dc84df400f",
+    "fee": 3000,
+    "blockNumber": 484415,
+    "txHash": "0x27fca7a51133dae5eb6d7cd2b70fd5ea8c34ec5b7b654e266f5800f9c58ad968"
+  },
+  {
+    "pool": "0xfa4745f6bf8916b80b2c23f3e19f7b544ae5a191",
+    "chain": "zero_network",
+    "total_usd": 1.877310000000002,
+    "lines": [
+      {
+        "token_address": "0xd8cF746F51B9cDf7c00099EC2EFfE6C160fDE2a0",
+        "symbol": "FYOH",
+        "name": "FuiYoh",
+        "decimals": 18,
+        "raw_balance": 9999984577685068876862,
+        "qty": 9999.984577685069,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1000000000000001,
+        "qty": 0.001000000000000001,
+        "usd": 1.877310000000002,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "FYOH"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xd8cf746f51b9cdf7c00099ec2effe6c160fde2a0",
+    "fee": 10000,
+    "blockNumber": 489122,
+    "txHash": "0x7a7262727176aa1566c4b4f197f8ea55dc45e7dd992b4a5bf99f59d0beb04fd4"
+  },
+  {
+    "pool": "0x2a0c30c95381abd799005f64a78e419df263502c",
+    "chain": "zero_network",
+    "total_usd": 27.96260205825032,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 15132139,
+        "qty": 15.132139,
+        "usd": 15.125299273172,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 6838136900713426,
+        "qty": 0.006838136900713426,
+        "usd": 12.83730278507832,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 500,
+    "blockNumber": 490103,
+    "txHash": "0x7b3817b0a4230ff24292c3194ded6fb69333135eb648b1c580d0268ed8faf9c0"
+  },
+  {
+    "pool": "0x247b873d763b447b32d40e62e489bbf01dcbc40f",
+    "chain": "zero_network",
+    "total_usd": 294.75289830937186,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 80103170,
+        "qty": 80.10317,
+        "usd": 80.06696336716,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 114358275906596064,
+        "qty": 0.11435827590659606,
+        "usd": 214.68593494221184,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 10000,
+    "blockNumber": 502281,
+    "txHash": "0xf9d1cc850ab78c75ecfc57d541676a5969e26a09d6c0beb90a9ea36846b006b2"
+  },
+  {
+    "pool": "0xb4622204f2b266d0228677d285cdeb17d5c95aa5",
+    "chain": "zero_network",
+    "total_usd": 1.87731e-15,
+    "lines": [
+      {
+        "token_address": "0xAceEa04A18aFEbB4EAaD9cD1C1e184855a015d35",
+        "symbol": "AUZA",
+        "name": "BY AUZA",
+        "decimals": 18,
+        "raw_balance": 999996034135306099,
+        "qty": 0.9999960341353061,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": 1.87731e-15,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "AUZA"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xaceea04a18afebb4eaad9cd1c1e184855a015d35",
+    "fee": 500,
+    "blockNumber": 502628,
+    "txHash": "0xabafe0ea615a6f37d8c38fc9b04cc5349644573ecc21009840e72bea675bf361"
+  },
+  {
+    "pool": "0x4ac5d1a9e7caf5f5c64f1dd8aad5b29f2df8b907",
+    "chain": "zero_network",
+    "total_usd": 1.87731e-15,
+    "lines": [
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": 1.87731e-15,
+        "price_source": "eth_reference_price"
+      },
+      {
+        "token_address": "0x28a46b613e582803a2CAd2f4332E91e06C300A0C",
+        "symbol": "ZERCAT",
+        "name": "THE ZERION CATFATHER",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": null,
+        "price_source": null
+      }
+    ],
+    "unpriced_symbols": [
+      "ZERCAT"
+    ],
+    "token0": "0x28a46b613e582803a2cad2f4332e91e06c300a0c",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 10000,
+    "blockNumber": 580912,
+    "txHash": "0x750f1455d8c174fb50029edf1f2f9e329f908384627f3376e30049f0d88d6624"
+  },
+  {
+    "pool": "0x0bbed26bac7f765a06effb5db8fcbce014b56c60",
+    "chain": "zero_network",
+    "total_usd": 1.87731e-15,
+    "lines": [
+      {
+        "token_address": "0xb130A43ac530F8FBb1e05ecA6dFCa337770608c7",
+        "symbol": "HOP",
+        "name": "ByteBunny",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": 1.87731e-15,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "HOP"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xb130a43ac530f8fbb1e05eca6dfca337770608c7",
+    "fee": 3000,
+    "blockNumber": 606307,
+    "txHash": "0xbbac56100180b8b0d00642ea30817fcdc7ff5a9788a030e75bbfb60a35ec2fc7"
+  },
+  {
+    "pool": "0x82aada92f9dd600b9fdf97e9e41fc25df83e04fd",
+    "chain": "zero_network",
+    "total_usd": 1.999096e-06,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 2,
+        "qty": 2e-06,
+        "usd": 1.999096e-06,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0xb130A43ac530F8FBb1e05ecA6dFCa337770608c7",
+        "symbol": "HOP",
+        "name": "ByteBunny",
+        "decimals": 18,
+        "raw_balance": 3,
+        "qty": 3e-18,
+        "usd": null,
+        "price_source": null
+      }
+    ],
+    "unpriced_symbols": [
+      "HOP"
+    ],
+    "token0": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "token1": "0xb130a43ac530f8fbb1e05eca6dfca337770608c7",
+    "fee": 3000,
+    "blockNumber": 631013,
+    "txHash": "0xe779c2450103482d0e0b2fe9a6fb1aac13b391e31ef114929c2304375d688b5f"
+  },
+  {
+    "pool": "0x9405745f96f5d91b03e643c84a37a95b27c8290f",
+    "chain": "zero_network",
+    "total_usd": 1.092194297213878,
+    "lines": [
+      {
+        "token_address": "0xB58cA71BbdE11a4692594f6456A4163E22b64c10",
+        "symbol": "PEDRO",
+        "name": "Pedro",
+        "decimals": 18,
+        "raw_balance": 212126860935328713876581,
+        "qty": 212126.8609353287,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 581786863764577,
+        "qty": 0.000581786863764577,
+        "usd": 1.092194297213878,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "PEDRO"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xb58ca71bbde11a4692594f6456a4163e22b64c10",
+    "fee": 10000,
+    "blockNumber": 850494,
+    "txHash": "0x405158f5f45375c4c3a5390c40094270cec65a42c4bdc5bd821512aac0e45eed"
+  },
+  {
+    "pool": "0xe390a941f18d88f8bd03117f3417464e749f9e9e",
+    "chain": "zero_network",
+    "total_usd": 1.87731e-15,
+    "lines": [
+      {
+        "token_address": "0xdA31CE0BC515d7f8e64B9F276ec2Ff7BaD64a569",
+        "symbol": "BLACKPERRY",
+        "name": "BLACKPERRY",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": 1.87731e-15,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "BLACKPERRY"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xda31ce0bc515d7f8e64b9f276ec2ff7bad64a569",
+    "fee": 10000,
+    "blockNumber": 896525,
+    "txHash": "0xce160b6b7eaef7e3ffc38c98b8a481b9b91d50392c005379ce364c92772f5f11"
+  },
+  {
+    "pool": "0x01825522a4986eec457713a15d2a1325d80ad62f",
+    "chain": "zero_network",
+    "total_usd": 0.22453878842950672,
+    "lines": [
+      {
+        "token_address": "0x88129563b5CD13BD6F0E2dAe364b35A5771CBC5e",
+        "symbol": "0",
+        "name": "0",
+        "decimals": 18,
+        "raw_balance": 70925287268058654318307,
+        "qty": 70925.28726805866,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 119606665084353,
+        "qty": 0.000119606665084353,
+        "usd": 0.22453878842950672,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "0"
+    ],
+    "token0": "0x88129563b5cd13bd6f0e2dae364b35a5771cbc5e",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 10000,
+    "blockNumber": 1028096,
+    "txHash": "0xe3edc8bc00756b70409697d47e3cea641b62b97f2f11fdbf78166ad0843c13d8"
+  },
+  {
+    "pool": "0x9bf15f91692789b9a4d071fc6cd5d465faf2a0f5",
+    "chain": "zero_network",
+    "total_usd": 1765.385430410213,
+    "lines": [
+      {
+        "token_address": "0xC1E079697A8806546a72642D0367c7e45aA80B95",
+        "symbol": "BALLS",
+        "name": "You Got Balls",
+        "decimals": 18,
+        "raw_balance": 14691244174134086147480454,
+        "qty": 14691244.174134087,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 940380347630499590,
+        "qty": 0.9403803476304996,
+        "usd": 1765.385430410213,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "BALLS"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xc1e079697a8806546a72642d0367c7e45aa80b95",
+    "fee": 100,
+    "blockNumber": 1035334,
+    "txHash": "0xa233706b856fcd81a89bcbd572109793cc65438d1fb6987c30f3fbc0ce052865"
+  },
+  {
+    "pool": "0x849b0f96efd3035382512ede982344048fa2883e",
+    "chain": "zero_network",
+    "total_usd": 9.99548e-07,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 1,
+        "qty": 1e-06,
+        "usd": 9.99548e-07,
+        "price_source": "blockscout_exchange_rate"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "token1": "0xf95ab0b026cb4bb66e24d2ac7e4a6a992d8b4ef4",
+    "fee": 10000,
+    "blockNumber": 1080778,
+    "txHash": "0xfc3d50225507d75e4fd2dca60e0a7f084d03a771a7f320e80d963bafa28a582f"
+  },
+  {
+    "pool": "0x2c9fd8a58afe7e3c8af160a24c491a02506a1c9c",
+    "chain": "zero_network",
+    "total_usd": 160.43911998338,
+    "lines": [
+      {
+        "token_address": "0x6386dA73545ae4E2B2E0393688fA8B65Bb9a7169",
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "decimals": 6,
+        "raw_balance": 159399542,
+        "qty": 159.399542,
+        "usd": 159.258632804872,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 1181021,
+        "qty": 1.181021,
+        "usd": 1.180487178508,
+        "price_source": "blockscout_exchange_rate"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169",
+    "token1": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "fee": 100,
+    "blockNumber": 1087138,
+    "txHash": "0xab74d208938ebab2f64286db964a511d6819a46ba06c9a19cb2df91bc7712fd6"
+  },
+  {
+    "pool": "0x246ae3fd0ee4e5943d1dff2afd70fb836a4013ce",
+    "chain": "zero_network",
+    "total_usd": 948.69531924972,
+    "lines": [
+      {
+        "token_address": "0x6386dA73545ae4E2B2E0393688fA8B65Bb9a7169",
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "decimals": 6,
+        "raw_balance": 948928659,
+        "qty": 948.928659,
+        "usd": 948.089806065444,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 605787,
+        "qty": 0.605787,
+        "usd": 0.605513184276,
+        "price_source": "blockscout_exchange_rate"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169",
+    "token1": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "fee": 3000,
+    "blockNumber": 1101450,
+    "txHash": "0x57b3a34fe4786129cf4a7e8ab642f5ac1af75a7bb697ae93240048d770821e38"
+  },
+  {
+    "pool": "0x5b7ef1de512526dcf323a582de5be3ce2f10fa1d",
+    "chain": "zero_network",
+    "total_usd": 43.058877504524006,
+    "lines": [
+      {
+        "token_address": "0x6386dA73545ae4E2B2E0393688fA8B65Bb9a7169",
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "decimals": 6,
+        "raw_balance": 26090243,
+        "qty": 26.090243,
+        "usd": 26.067179225188003,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 16999382,
+        "qty": 16.999382,
+        "usd": 16.991698279336,
+        "price_source": "blockscout_exchange_rate"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169",
+    "token1": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "fee": 500,
+    "blockNumber": 1128305,
+    "txHash": "0x3d8a0ca1625cbd134add0dd8efafc25489e964c3a43f6f1cb09820fbe1dc47c2"
+  },
+  {
+    "pool": "0x5c12087be94eca8f877cca1788f65ee0ed86291b",
+    "chain": "zero_network",
+    "total_usd": 77.45375606691756,
+    "lines": [
+      {
+        "token_address": "0xF1f9E08a0818594FDe4713AE0Db1E46672Ca960E",
+        "symbol": "WBTC",
+        "name": "Wrapped BTC",
+        "decimals": 8,
+        "raw_balance": 114100,
+        "qty": 0.001141,
+        "usd": 72.40671900000001,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 2688440943114114,
+        "qty": 0.002688440943114114,
+        "usd": 5.047037066917557,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xf1f9e08a0818594fde4713ae0db1e46672ca960e",
+    "fee": 3000,
+    "blockNumber": 1129664,
+    "txHash": "0x7fa2368bb772a647e3777b484d74e0dc5ea39b241b7bdf4d3b3401abb9fea605"
+  },
+  {
+    "pool": "0xed3a7f5dbf3105db98c0e75c65b15e5d99d54dc7",
+    "chain": "zero_network",
+    "total_usd": 3.5856620999999997e-13,
+    "lines": [
+      {
+        "token_address": "0x0c9CCB79BbD45B9De8bC55483d41D6693456Dd79",
+        "symbol": "0",
+        "name": "ZERO",
+        "decimals": 18,
+        "raw_balance": 201,
+        "qty": 2.01e-16,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 191,
+        "qty": 1.91e-16,
+        "usd": 3.5856620999999997e-13,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "0"
+    ],
+    "token0": "0x0c9ccb79bbd45b9de8bc55483d41d6693456dd79",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 10000,
+    "blockNumber": 1144838,
+    "txHash": "0xf3b400ade74ae9ccf57d5426fafa87f4f63621d07d04d979fd7dcf5dbe44fcb1"
+  },
+  {
+    "pool": "0x2e386c1d26dba54f78a5398329d19e803656fce8",
+    "chain": "zero_network",
+    "total_usd": 66.42011946344849,
+    "lines": [
+      {
+        "token_address": "0x6386dA73545ae4E2B2E0393688fA8B65Bb9a7169",
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "decimals": 6,
+        "raw_balance": 43065712,
+        "qty": 43.065712,
+        "usd": 43.027641910591996,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 12460636523992568,
+        "qty": 0.012460636523992569,
+        "usd": 23.392477552856487,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 3000,
+    "blockNumber": 1178184,
+    "txHash": "0x459151a41b51d985b2a34e581c608cd0f296484f475b383be319a1290952e795"
+  },
+  {
+    "pool": "0x6acd81f39b7a66cc43e9723fc924c9b61fd12ad9",
+    "chain": "zero_network",
+    "total_usd": 1.87731e-15,
+    "lines": [
+      {
+        "token_address": "0xE523eAB3f181348f087111bB01e3C1Fb74a200d4",
+        "symbol": "love",
+        "name": "love",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": 1.87731e-15,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "love"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xe523eab3f181348f087111bb01e3c1fb74a200d4",
+    "fee": 10000,
+    "blockNumber": 1183341,
+    "txHash": "0x4a62821e341fcbd6ea1ca7c63ec422ae32b78d39cc545e150ad86a33ea379a94"
+  },
+  {
+    "pool": "0xeae03cc36f66b258f6722ea489e403a371d1613a",
+    "chain": "zero_network",
+    "total_usd": 3.75462e-15,
+    "lines": [
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 2,
+        "qty": 2e-18,
+        "usd": 3.75462e-15,
+        "price_source": "eth_reference_price"
+      },
+      {
+        "token_address": "0x7FbCb613b3E89740586935E8A426F8b0F485EE41",
+        "symbol": "fitness",
+        "name": "Fitness",
+        "decimals": 18,
+        "raw_balance": 1,
+        "qty": 1e-18,
+        "usd": null,
+        "price_source": null
+      }
+    ],
+    "unpriced_symbols": [
+      "fitness"
+    ],
+    "token0": "0x7fbcb613b3e89740586935e8a426f8b0f485ee41",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 10000,
+    "blockNumber": 1192098,
+    "txHash": "0xe9ca7da154385ac9e8b1b8711a6ea62d515abd7bc0ce321a4a1934fab06c03a6"
+  },
+  {
+    "pool": "0xc0a2c5ffe977e2218f122196c89cd98ad67db964",
+    "chain": "zero_network",
+    "total_usd": 3.75462e-15,
+    "lines": [
+      {
+        "token_address": "0x8180968FC5c8896a994957FFdC029a1FB2e4Db55",
+        "symbol": "ntv24",
+        "name": "NTV24 Ticket",
+        "decimals": 18,
+        "raw_balance": 4,
+        "qty": 4e-18,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 2,
+        "qty": 2e-18,
+        "usd": 3.75462e-15,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "ntv24"
+    ],
+    "token0": "0x8180968fc5c8896a994957ffdc029a1fb2e4db55",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 10000,
+    "blockNumber": 1198260,
+    "txHash": "0x6c4654de40875ffa9ff5288aadca8a4f19515b81f40d785f73f1914543364d17"
+  },
+  {
+    "pool": "0x3c2e3353dc7276c5be7248f462aeb9e2cad3bd7c",
+    "chain": "zero_network",
+    "total_usd": 1.8987955999999998e-05,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 11,
+        "qty": 1.1e-05,
+        "usd": 1.0995027999999999e-05,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0x6386dA73545ae4E2B2E0393688fA8B65Bb9a7169",
+        "symbol": "USDT",
+        "name": "Tether USD",
+        "decimals": 6,
+        "raw_balance": 8,
+        "qty": 8e-06,
+        "usd": 7.992928e-06,
+        "price_source": "blockscout_exchange_rate"
+      }
+    ],
+    "unpriced_symbols": [],
+    "token0": "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169",
+    "token1": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "fee": 10000,
+    "blockNumber": 1261082,
+    "txHash": "0x7667f4a7b6ee65ab261d88c6f4b2e43b253491014732ff853b87e44fa0721335"
+  },
+  {
+    "pool": "0x1eacc2d8a53853ac610614d8797ac0f17c89b2ef",
+    "chain": "zero_network",
+    "total_usd": 0.0458032669973489,
+    "lines": [
+      {
+        "token_address": "0xC1E079697A8806546a72642D0367c7e45aA80B95",
+        "symbol": "BALLS",
+        "name": "You Got Balls",
+        "decimals": 18,
+        "raw_balance": 179496464118695886670942,
+        "qty": 179496.46411869588,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 24398350297686,
+        "qty": 2.4398350297686e-05,
+        "usd": 0.0458032669973489,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "BALLS"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xc1e079697a8806546a72642d0367c7e45aa80b95",
+    "fee": 10000,
+    "blockNumber": 1361247,
+    "txHash": "0x340033f223fb46253301e73a4f5f280353c1c11bf96c328f36ac21f265ccde46"
+  },
+  {
+    "pool": "0x67444753c3ff312a011c443c5c87a598cfe3d83d",
+    "chain": "zero_network",
+    "total_usd": 1.501848e-14,
+    "lines": [
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 8,
+        "qty": 8e-18,
+        "usd": 1.501848e-14,
+        "price_source": "eth_reference_price"
+      },
+      {
+        "token_address": "0x3E0EcF88703a2FA78fA222A7842C26929bf038c2",
+        "symbol": "BOOGA",
+        "name": "BOOGA",
+        "decimals": 18,
+        "raw_balance": 5,
+        "qty": 5e-18,
+        "usd": null,
+        "price_source": null
+      }
+    ],
+    "unpriced_symbols": [
+      "BOOGA"
+    ],
+    "token0": "0x3e0ecf88703a2fa78fa222a7842c26929bf038c2",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 3000,
+    "blockNumber": 1379659,
+    "txHash": "0xb7d2c0f47857e360d2a0e27c7e171885e3810ae757aeae0045112daae3b33223"
+  },
+  {
+    "pool": "0x93558ebafd44b760b2784275e689d9a71f6386eb",
+    "chain": "zero_network",
+    "total_usd": 0.0036055499405617236,
+    "lines": [
+      {
+        "token_address": "0xf179bf521Deb5Ceb31162a0b5f468106b26574b4",
+        "symbol": "PDK",
+        "name": "Panda King",
+        "decimals": 18,
+        "raw_balance": 4177338976933388203004,
+        "qty": 4177.338976933388,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 1920593796742,
+        "qty": 1.920593796742e-06,
+        "usd": 0.0036055499405617236,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "PDK"
+    ],
+    "token0": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "token1": "0xf179bf521deb5ceb31162a0b5f468106b26574b4",
+    "fee": 500,
+    "blockNumber": 1384181,
+    "txHash": "0x1d7ec1239698d8c6a5aea34204362d6f93305a4d217914a0780ba6bb1ddbf590"
+  },
+  {
+    "pool": "0x03136827f3622cb48dd23cf6320ae17af77c55bc",
+    "chain": "zero_network",
+    "total_usd": 3.75462e-15,
+    "lines": [
+      {
+        "token_address": "0x3E0EcF88703a2FA78fA222A7842C26929bf038c2",
+        "symbol": "BOOGA",
+        "name": "BOOGA",
+        "decimals": 18,
+        "raw_balance": 3,
+        "qty": 3e-18,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 2,
+        "qty": 2e-18,
+        "usd": 3.75462e-15,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "BOOGA"
+    ],
+    "token0": "0x3e0ecf88703a2fa78fa222a7842c26929bf038c2",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 10000,
+    "blockNumber": 1555568,
+    "txHash": "0x122a04f2cb6cc4b62475bca6e045695e802ba9d8fca039e39a5cdaafc696d4e7"
+  },
+  {
+    "pool": "0x6911d086ce4056f8811ace85075927a085289698",
+    "chain": "zero_network",
+    "total_usd": 1524.281055634457,
+    "lines": [
+      {
+        "token_address": "0x1A90DD3Dd89E2D2095ED1B40eCC1fe2BbB7614a1",
+        "symbol": "CLNY",
+        "name": "ColonyToken",
+        "decimals": 18,
+        "raw_balance": 4098859735376967602512893,
+        "qty": 4098859.7353769676,
+        "usd": null,
+        "price_source": null
+      },
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 811949574462639181,
+        "qty": 0.8119495744626392,
+        "usd": 1524.281055634457,
+        "price_source": "eth_reference_price"
+      }
+    ],
+    "unpriced_symbols": [
+      "CLNY"
+    ],
+    "token0": "0x1a90dd3dd89e2d2095ed1b40ecc1fe2bbb7614a1",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 3000,
+    "blockNumber": 1681896,
+    "txHash": "0x1fbe2c6723bebfed7de34bebb610dbcbab868f667a71e1d0754e38ca31ac78f0"
+  },
+  {
+    "pool": "0xe031f50be8ab4c53eb87a564090bdfd6dbd297f3",
+    "chain": "zero_network",
+    "total_usd": 0.000167924064,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 168,
+        "qty": 0.000168,
+        "usd": 0.000167924064,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0x1A90DD3Dd89E2D2095ED1B40eCC1fe2BbB7614a1",
+        "symbol": "CLNY",
+        "name": "ColonyToken",
+        "decimals": 18,
+        "raw_balance": 147,
+        "qty": 1.47e-16,
+        "usd": null,
+        "price_source": null
+      }
+    ],
+    "unpriced_symbols": [
+      "CLNY"
+    ],
+    "token0": "0x1a90dd3dd89e2d2095ed1b40ecc1fe2bbb7614a1",
+    "token1": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "fee": 10000,
+    "blockNumber": 1752167,
+    "txHash": "0xbebe7a11e0ac9a018803486d179a6d8adc67300ab5d7b5a33c31edac03597a9e"
+  },
+  {
+    "pool": "0x773a1038d9f3b2c52dd35282f6568799dee7e644",
+    "chain": "zero_network",
+    "total_usd": 0.0006007283479999999,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 601,
+        "qty": 0.000601,
+        "usd": 0.0006007283479999999,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0xf179bf521Deb5Ceb31162a0b5f468106b26574b4",
+        "symbol": "PDK",
+        "name": "Panda King",
+        "decimals": 18,
+        "raw_balance": 1710987914832920798326,
+        "qty": 1710.9879148329208,
+        "usd": null,
+        "price_source": null
+      }
+    ],
+    "unpriced_symbols": [
+      "PDK"
+    ],
+    "token0": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "token1": "0xf179bf521deb5ceb31162a0b5f468106b26574b4",
+    "fee": 3000,
+    "blockNumber": 2240531,
+    "txHash": "0xc1bcc2cd40ce1b231bdc7a00494ff1a1ef167c8d3b49710df0f17f18560cc62d"
+  },
+  {
+    "pool": "0xdf7784ec72268e7e3d5228d12ee4d4f58b0b59df",
+    "chain": "zero_network",
+    "total_usd": 3.75462e-15,
+    "lines": [
+      {
+        "token_address": "0xAc98B49576B1C892ba6BFae08fE1BB0d80Cf599c",
+        "symbol": "WETH",
+        "name": "Wrapped Ether",
+        "decimals": 18,
+        "raw_balance": 2,
+        "qty": 2e-18,
+        "usd": 3.75462e-15,
+        "price_source": "eth_reference_price"
+      },
+      {
+        "token_address": "0x4BE7bbc2AfBcc36B204F02843e8496AB7C2C2EE0",
+        "symbol": "ASTRA",
+        "name": "ASTRA",
+        "decimals": 18,
+        "raw_balance": 2,
+        "qty": 2e-18,
+        "usd": null,
+        "price_source": null
+      }
+    ],
+    "unpriced_symbols": [
+      "ASTRA"
+    ],
+    "token0": "0x4be7bbc2afbcc36b204f02843e8496ab7c2c2ee0",
+    "token1": "0xac98b49576b1c892ba6bfae08fe1bb0d80cf599c",
+    "fee": 10000,
+    "blockNumber": 3113926,
+    "txHash": "0x022e19451f5031f3ee114dcff376f881e64d781a90375f8f4e07a915ecf20049"
+  },
+  {
+    "pool": "0x934a426c5d759a97da02956f3d72d92445c9071d",
+    "chain": "zero_network",
+    "total_usd": 3.998192e-06,
+    "lines": [
+      {
+        "token_address": "0x6a6394F47DD0BAF794808F2749C09bd4Ee874E70",
+        "symbol": "USDC",
+        "name": "USD Coin",
+        "decimals": 6,
+        "raw_balance": 4,
+        "qty": 4e-06,
+        "usd": 3.998192e-06,
+        "price_source": "blockscout_exchange_rate"
+      },
+      {
+        "token_address": "0x4BE7bbc2AfBcc36B204F02843e8496AB7C2C2EE0",
+        "symbol": "ASTRA",
+        "name": "ASTRA",
+        "decimals": 18,
+        "raw_balance": 5,
+        "qty": 5e-18,
+        "usd": null,
+        "price_source": null
+      }
+    ],
+    "unpriced_symbols": [
+      "ASTRA"
+    ],
+    "token0": "0x4be7bbc2afbcc36b204f02843e8496ab7c2c2ee0",
+    "token1": "0x6a6394f47dd0baf794808f2749c09bd4ee874e70",
+    "fee": 10000,
+    "blockNumber": 3118447,
+    "txHash": "0x3baee95448bbdc1e0d9ab719327e8f27858f03e60f7803e429806c9935754f52"
+  }
+]

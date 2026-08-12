@@ -1,0 +1,138 @@
+[
+  {
+    "pool": "0xc14b405f57fe204c7b2b142b931f208024ae795e",
+    "token0": "0x30135e8e81afb9ad45f74db735d197463a13942a",
+    "token1": "0x3299e3e5c68a4dee3897094bbc3c9c902e6698f9",
+    "fee": 3000,
+    "bal0": 1837499999999999999333,
+    "bal1": 100174999999999999999987
+  },
+  {
+    "pool": "0xc393c18ac0b2b221915298f539e25b222e4474de",
+    "token0": "0x962fdf8f86539cfafa557a746dd5ec16245ad4ed",
+    "token1": "0xecf9288395797da137f663a7dd0f0cdf918776f8",
+    "fee": 3000,
+    "bal0": 1999999999999999999999,
+    "bal1": 1999999999999999999999
+  },
+  {
+    "pool": "0x6bdd289d8fde63d29526fe8f1f25ec15e6c90a20",
+    "token0": "0x903d4d4c538edb95fb9affc90ec82560f073fca2",
+    "token1": "0xd714b69de0a3bef507f7cc2e58b118db54681283",
+    "fee": 500,
+    "bal0": 13633340527000023869810,
+    "bal1": 6383143086913385486674
+  },
+  {
+    "pool": "0x15dfeeeddf41f311a451fae4214643348d33c58a",
+    "token0": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+    "token1": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+    "fee": 10000,
+    "bal0": 16561555704548593940,
+    "bal1": 4296894181143034742
+  },
+  {
+    "pool": "0x35600306920e3238a3e8c6a0a1b9160e51869827",
+    "token0": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+    "token1": "0x2a1bce657f919ac3f9ab50b2584cfc77563a02ec",
+    "fee": 10000,
+    "bal0": 2,
+    "bal1": 2
+  },
+  {
+    "pool": "0xb0624aca9b3399dfd38d184fc3c91c6f080923de",
+    "token0": "0x2d270e6886d130d724215a266106e6832161eaed",
+    "token1": "0x9daa2ea8c7aa96dba42eaa41f4d5bb5ce9f5ecea",
+    "fee": 3000,
+    "bal0": 65901,
+    "bal1": 1000000000000000000000000000000000
+  },
+  {
+    "pool": "0x61bdf54fb9b0f2b81f27276458e4a1a8ca212f1a",
+    "token0": "0x3b8bc1d36c30e293a912be56807a3e5d94ebe76b",
+    "token1": "0xab6ab1b7df70c7062356dc7417c2c8762be34938",
+    "fee": 100,
+    "bal0": 99999999999999999999999999999,
+    "bal1": 99999999999999999999999999998
+  },
+  {
+    "pool": "0x6536e9d453f24abb25907a8921682dab433d104c",
+    "token0": "0x32bcb803f696c99eb263d60a05cafd8689026575",
+    "token1": "0x3b8bc1d36c30e293a912be56807a3e5d94ebe76b",
+    "fee": 100,
+    "bal0": 999999999924032339,
+    "bal1": 9999017723
+  },
+  {
+    "pool": "0x242f5d493ecc97617bbee116294ff694ca03d3de",
+    "token0": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
+    "token1": "0x9fa192f485c2edbff420e068854b4d476d454fc7",
+    "fee": 10000,
+    "bal0": 840129363471064411764,
+    "bal1": 1004852137656067060839708
+  },
+  {
+    "pool": "0xb299c619889137a5f6c9dcceeac3315c709924df",
+    "token0": "0x17797f9ec11d892bb1fd13cd59fb956922b66c2d",
+    "token1": "0x6e41a6f4df794fcbef14e2d2e65b1935b83a36a0",
+    "fee": 10000,
+    "bal0": 198782843062376454752,
+    "bal1": 1000000000000000000000000000
+  },
+  {
+    "pool": "0x6476df8901b7aa878c520ddd5b89eccba85693f4",
+    "token0": "0x17797f9ec11d892bb1fd13cd59fb956922b66c2d",
+    "token1": "0x7b6f609361d16c631380bc5d5e74bb18b883fc13",
+    "fee": 10000,
+    "bal0": 19733945817112194005,
+    "bal1": 999004922674464686072715554
+  },
+  {
+    "pool": "0x4bf9cc8afdb9daf3e441281312f3b94eb8683567",
+    "token0": "0xa161132371c94299d215915d4cbc3b629e2059be",
+    "token1": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+    "fee": 100,
+    "bal0": 97411,
+    "bal1": 102969
+  },
+  {
+    "pool": "0x95022a57745ef5cb8e2cb142a6e729fa9a722181",
+    "token0": "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
+    "token1": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+    "fee": 100,
+    "bal0": 109791,
+    "bal1": 110616
+  },
+  {
+    "pool": "0xbef72a618aa44fd497a20e35dcadd218135f640b",
+    "token0": "0xa1bc4441bc4d02a782f93d7eae15fa3fed1b5dd9",
+    "token1": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "fee": 10000,
+    "bal0": 999999999999999999999963840,
+    "bal1": null
+  },
+  {
+    "pool": "0x4df8a5c66c6bee3c2856f318fa7e6aae1bec4f49",
+    "token0": "0x6ea5c2d5209f1c3ca6c2a1d64f2f5874e59a9623",
+    "token1": "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
+    "fee": 10000,
+    "bal0": 999999999999999999999999587,
+    "bal1": 11633
+  },
+  {
+    "pool": "0xbab00e2e8d58f2ea75af42e5a9431deb4463a3de",
+    "token0": "0x3e2a3c5b8d89594022d3a61574085f3ff40cbf5c",
+    "token1": "0x568c28170115fe772b30229199d4ae0595a507f7",
+    "fee": 10000,
+    "bal0": 999999999999999999999999587,
+    "bal1": 0
+  },
+  {
+    "pool": "0x42b3ddb4a2af1d94e9434cd6dfa50db337110253",
+    "token0": "0x2d270e6886d130d724215a266106e6832161eaed",
+    "token1": "0xd3dd859d4c5812afc65e8cc35fc91fad92919b48",
+    "fee": 10000,
+    "bal0": 0,
+    "bal1": 999999999999999999999999589
+  }
+]

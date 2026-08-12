@@ -1,0 +1,21 @@
+{
+  "ZkSolcVersion": "v1.3.13",
+  "OptimizationMode": "3",
+  "ContractName": "UniswapV3Pool",
+  "CompilerVersion": "v0.7.6+commit.7338295f",
+  "CompilerType": "solc-j",
+  "OptimizationUsed": "1",
+  "Runs": "200",
+  "ConstructorArguments": "",
+  "EVMVersion": "Default",
+  "Library": "",
+  "ContractFileName": "contracts/UniswapV3Pool.sol",
+  "LicenseType": "",
+  "Proxy": "0",
+  "Implementation": "",
+  "SwarmSource": "",
+  "SimilarMatch": "",
+  "explorer": "etherscan_v2",
+  "chain_id": 2741,
+  "is_verified": true
+}

@@ -1,0 +1,91 @@
+{
+  "creation_status": "success",
+  "optimization_enabled": true,
+  "verified_twin_address_hash": null,
+  "is_verified": true,
+  "compiler_settings": {
+    "evmVersion": "istanbul",
+    "libraries": {},
+    "metadata": {
+      "bytecodeHash": "none",
+      "useLiteralContent": false
+    },
+    "optimizer": {
+      "enabled": true,
+      "runs": 800
+    },
+    "outputSelection": {
+      "*": {
+        "*": [
+          "abi",
+          "evm.bytecode.object",
+          "evm.bytecode.sourceMap",
+          "evm.bytecode.linkReferences",
+          "evm.deployedBytecode.object",
+          "evm.deployedBytecode.sourceMap",
+          "evm.deployedBytecode.linkReferences",
+          "evm.deployedBytecode.immutableReferences",
+          "evm.methodIdentifiers",
+          "metadata"
+        ]
+      }
+    },
+    "remappings": [
+      "forge-std/=lib/forge-std/src/",
+      "src/pkgs/v3-periphery:base64-sol/=lib/base64/",
+      "src/pkgs/v3-periphery:@openzeppelin/contracts/=lib/oz-v3.4-solc-0.7/contracts/",
+      "lib/v4-core:solmate/src/=lib/v4-core/lib/solmate/src/",
+      "src/pkgs/v4-core:solmate/src/=src/pkgs/v4-core/lib/solmate/src/",
+      "src/pkgs/v4-periphery:solmate/src/=src/pkgs/v4-periphery/lib/v4-core/lib/solmate/src/",
+      "src/pkgs/v4-periphery:@uniswap/v4-core/=src/pkgs/v4-periphery/lib/v4-core/",
+      "src/pkgs/v4-periphery/src:openzeppelin-contracts/=src/pkgs/v4-periphery/lib/v4-core/lib/openzeppelin-contracts/",
+      "src/pkgs/v4-periphery/src:@openzeppelin/=src/pkgs/v4-periphery/lib/v4-core/lib/openzeppelin-contracts/",
+      "src/pkgs/permit2:solmate/=src/pkgs/permit2/lib/solmate/",
+      "src/pkgs/universal-router:@uniswap/v3-periphery/=src/pkgs/universal-router/lib/v3-periphery/",
+      "src/pkgs/universal-router:@uniswap/v4-periphery/=src/pkgs/universal-router/lib/v4-periphery/",
+      "src/pkgs/universal-router:solmate/=src/pkgs/universal-router/lib/solmate/",
+      "src/pkgs/universal-router/lib/v4-periphery:@openzeppelin/=src/pkgs/universal-router/lib/v4-periphery/lib/v4-core/lib/openzeppelin-contracts/",
+      "src/pkgs/universal-router/lib/v3-periphery:@openzeppelin/=lib/oz-v4.7.0/",
+      "src/pkgs/uniswapx:solmate/=src/pkgs/uniswapx/lib/solmate/",
+      "src/pkgs/uniswapx:openzeppelin-contracts/=src/pkgs/uniswapx/lib/openzeppelin-contracts/contracts/",
+      "src/pkgs/util-contracts:v2-core/=src/pkgs/v2-core/contracts/",
+      "src/pkgs/util-contracts:solmate/=src/pkgs/util-contracts/lib/solmate/src/",
+      "src/pkgs/view-quoter-v3:v3-core/=src/pkgs/v3-core/",
+      "src/pkgs/view-quoter-v3:v3-periphery/=src/pkgs/v3-periphery/",
+      "src/pkgs/swap-router-contracts:@openzeppelin/contracts/=lib/oz-v3.4-solc-0.7/contracts/",
+      "src/pkgs/swap-router-contracts:@uniswap/v3-periphery/=src/pkgs/v3-periphery/",
+      "permit2/=src/pkgs/permit2/",
+      "@uniswap/lib/=lib/solidity-lib/",
+      "@uniswap/v2-core/=src/pkgs/v2-core/",
+      "@uniswap/v3-core/=src/pkgs/v3-core/",
+      "@uniswap/v4-core/=src/pkgs/v4-core/"
+    ],
+    "viaIR": false
+  },
+  "optimization_runs": 800,
+  "sourcify_repo_url": null,
+  "compiler_version": "v0.7.6+commit.7338295f",
+  "is_verified_via_verifier_alliance": false,
+  "verified_at": "2024-12-11T20:28:01.796038Z",
+  "implementations": [],
+  "proxy_type": null,
+  "external_libraries": [],
+  "name": "UniswapV3Factory",
+  "is_blueprint": false,
+  "license_type": "none",
+  "is_fully_verified": false,
+  "is_verified_via_eth_bytecode_db": true,
+  "language": "solidity",
+  "evm_version": "istanbul",
+  "can_be_visualized_via_sol2uml": true,
+  "is_verified_via_sourcify": false,
+  "certified": false,
+  "conflicting_implementations": null,
+  "is_changed_bytecode": false,
+  "is_partially_verified": true,
+  "constructor_args": null,
+  "explorer": "blockscout",
+  "chain_id": 57073,
+  "deployed_bytecode_len": 49072,
+  "creation_bytecode_len": 49880
+}

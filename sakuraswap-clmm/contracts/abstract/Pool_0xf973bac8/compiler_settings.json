@@ -1,0 +1,18 @@
+{
+  "optimizer": {
+    "enabled": true,
+    "mode": "3"
+  },
+  "outputSelection": {
+    "*": {
+      "*": [
+        "abi"
+      ]
+    }
+  },
+  "metadata": {
+    "bytecodeHash": "none"
+  },
+  "isSystem": false,
+  "forceEvmla": false
+}
